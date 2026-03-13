@@ -1,5 +1,5 @@
 # fearfolk-ip-vault
-READ. me
+README.md 
 # 🌑 FEARFOLK // SPECTRAL ENGINE VAULT
 ### [PROPRIETARY LORE] [IP PROTECTED]
 
